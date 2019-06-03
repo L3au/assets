@@ -28,11 +28,11 @@ Files as below
     <div id="app"></div>
     <script>
       window.$docsify = {
-        name: 'docisify',
+        name: 'docsify',
         loadSidebar: true,
       }
     </script>
-    <script src="./docisify-all.js"></script>
+    <script src="./docsify-all.js"></script>
   </body>
 </html>
 ```
